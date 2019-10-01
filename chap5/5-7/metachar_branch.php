@@ -1,4 +1,4 @@
-<?php # | または
+<?php # 153  | または
 $pattern = "/東京|横浜/u";
 
 var_dump(preg_match($pattern , "東京タワー"));
